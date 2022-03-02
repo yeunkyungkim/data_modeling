@@ -1,1 +1,2 @@
-# data_modeling
+### data_modeling
+보험비에 관한 데이터를 사용하여 결정트리를 사용하여 성능 점수
